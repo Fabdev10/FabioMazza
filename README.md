@@ -1,6 +1,5 @@
-### Full Stack Web Developer Bio
-
-**Full Stack Web Developer** with a passion for creating efficient, scalable, and user-friendly web applications. Skilled in both front-end and back-end development, with a strong foundation in modern programming languages, frameworks, and technologies. Adept at translating business requirements into technical solutions and delivering high-quality products on time.
+### Hello!
+**I am a Full Stack Web Developer** with a passion for creating efficient, scalable, and user-friendly web applications. Skilled in both front-end and back-end development, with a strong foundation in modern programming languages, frameworks, and technologies. Adept at translating business requirements into technical solutions and delivering high-quality products on time.
 
 #### Key Skills:
 - **Front-End:** Expertise in HTML, CSS, JavaScript, React.
